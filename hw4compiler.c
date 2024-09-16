@@ -1,4 +1,4 @@
-//Cristian McGee COP3402 PL/0 Compiler Assignment 4
+//Cristian McGee (Only Member) COP3402 PL/0 Compiler Assignment 4
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
